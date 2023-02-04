@@ -25,5 +25,11 @@
 	3.Unstable.
 	4.Decision trees are high variance models.
 	5.Time consuming in training phase.
+	
+## Tree algorithms 
+	1.ID3
+	2.C4.5
+	3.C5.0
+	4.CART
 
 
