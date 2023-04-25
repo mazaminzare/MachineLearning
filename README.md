@@ -2,16 +2,16 @@
 Design patterns are standard and recommended ways that programmers can use to address typical issues while developing a system or application.
 
 ## Rebalancing: Problem Representation 
-**•	Choosing the right performance metric:
+**Choosing the right performance metric:**
 
-    o	Balanced Data: Accuracy
+    	Balanced Data: Accuracy
   
-    o	Imbalanced Data: Precision, recall, F1 score, AUC
+    	Imbalanced Data: Precision, recall, F1 score, AUC
   
-**•	Sampling methods:
+**Sampling methods:**
 
-    o	Over-sampling
+    	Over-sampling
   
-    o	Down-sampling
+    	Down-sampling
   
-**•	Weighted classes
+**Weighted classes**
