@@ -30,7 +30,8 @@ Design patterns are standard and recommended ways that programmers can use to ad
 ## Checkpoints: Model Training
 **Snapshot of a model’s internal state:**
 
-        To keep models especially deep learning models from unexpected events like power outages, operating system problems, interruptions in tasks, or other types          of errors
+            To keep models especially deep learning models from unexpected events like power outages, operating system problems, interruptions in tasks, or other types of errors
+            
         	Weights and current learning rate
         	Keep a checkpoint at the end of every epoch
         	Save the model with the best accuracy
