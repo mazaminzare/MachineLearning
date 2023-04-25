@@ -39,8 +39,8 @@ Design patterns are standard and recommended ways that programmers can use to ad
 
 ## Workflow Pipeline: Reproducibility
 
-        	    Isolate and containerize the individual steps of a machine learning workflow into an organized workflow.
-            	Repeatable Model.
-           	    Ensure maintainability and scalability.
-            	MLOps.
+        Isolate and containerize the individual steps of a machine learning workflow into an organized workflow.
+        Repeatable Model.
+        Ensure maintainability and scalability.
+        MLOps.
 
