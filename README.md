@@ -44,3 +44,16 @@ Design patterns are standard and recommended ways that programmers can use to ad
         Ensure maintainability and scalability.
         MLOps.
 
+
+
+## Explainable Predictions: Responsible AI
+**Separate input from features**
+
+        Clear understanding of the model behavior.
+       	Diagnose errors.
+	    Identify potential biases (Fair and Unfair biases).
+
+**Model Explainability:**
+
+           	understand why and how the model made the predictions in a certain way.
+           	Python libraries for model explainability: ELI5, SHAP and LIME.
