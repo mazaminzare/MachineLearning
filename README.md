@@ -15,8 +15,8 @@ Design patterns are standard and recommended ways that programmers can use to ad
 **Weighted classes**
 
         Penalized learning algorithms
-
-##Transform: Reproducibility Design Pattern
+ 
+## Transform: Reproducibility Design Pattern
 **Separate input from features**
 
         Extract features from raw input
