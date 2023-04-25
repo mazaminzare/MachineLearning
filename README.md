@@ -4,34 +4,43 @@ Design patterns are standard and recommended ways that programmers can use to ad
 ## Rebalancing: Problem Representation 
 **Choosing the right performance metric:**
 
-    	Balanced Data: Accuracy
-    	Imbalanced Data: Precision, recall, F1 score, AUC
+    	Balanced Data: Accuracy.
+    	Imbalanced Data: Precision, recall, F1 score, AUC.
         
 **Sampling methods:**
 
-    	Over-sampling
-    	Down-sampling
+    	Over-sampling.
+    	Down-sampling.
         
 **Weighted classes**
 
-        Penalized learning algorithms
+        Penalized learning algorithms.
  
 ## Transform: Reproducibility Design Pattern
 **Separate input from features**
 
-        Extract features from raw input
+        Extract features from raw input.
     
 **Transformation and Preprocessing:**
 
-        	Standardization
-        	Scaling
-        	Encoding
+        	Standardization.
+        	Scaling.
+        	Encoding.
 
 ## Checkpoints: Model Training
 **Snapshot of a model’s internal state:**
 
-            To keep models especially deep learning models from unexpected events like power outages, operating system problems, interruptions in tasks, or other types of errors
+            To keep models especially deep learning models from unexpected events like power outages, operating system problems, interruptions in tasks, or other types of errors.
             
-        	Weights and current learning rate
-        	Keep a checkpoint at the end of every epoch
-        	Save the model with the best accuracy
+        	Keep Weights and current learning rate.
+        	Keep a checkpoint at the end of every epoch.
+        	Save the model with the best accuracy.
+
+
+## Workflow Pipeline: Reproducibility
+
+        	    Isolate and containerize the individual steps of a machine learning workflow into an organized workflow.
+            	Repeatable Model.
+           	    Ensure maintainability and scalability.
+            	MLOps.
+
