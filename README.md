@@ -58,6 +58,6 @@ Design patterns are standard and recommended ways that programmers can use to ad
            	understand why and how the model made the predictions in a certain way.
            	Python libraries for model explainability: ELI5, SHAP and LIME.
 
-## Refrences:
+## References:
 		1- https://www.youtube.com/watch?v=aL_zQfi7lDI
 		2- https://towardsdatascience.com/design-patterns-for-machine-learning-410be845c0db
